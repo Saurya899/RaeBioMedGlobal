@@ -149,7 +149,7 @@ body {
 }
 
 /* ========== Animations ========== */
-@keyframes logoFloat {
+/* @keyframes logoFloat {
     0%, 100% { transform: translateY(0px); }
     50% { transform: translateY(-5px); }
 }
@@ -162,7 +162,7 @@ body {
 @keyframes slideInRight {
     from { opacity: 0; transform: translateX(50px); }
     to { opacity: 1; transform: translateX(0); }
-}
+} */
 
 /* ========== Navigation Menu ========== */
 .nav-menu {
